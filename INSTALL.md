@@ -2,7 +2,7 @@
 
 1. Clone this repository with submodules:
 	```
-	git clone https://github.com/overtake/TelegramSwift.git --recurse-submodules
+	git clone https://github.com/benjaminhxh/TelegramSwift.git --recurse-submodules
 	```
 2. Install Homebrew:
 	```
